@@ -16,7 +16,7 @@ standing engineering objective. State "no structural change" when applicable. --
 - Dependency direction and compatibility checks:
 - Duplicate/stale paths removed, or explicitly tracked structural debt:
 
-- [ ] Reviewed the [engineering objective](https://github.com/getsimba-ai/simba-mcp/issues/38#engineering-objective-coherent-structure-and-shared-code)
+- [ ] Reviewed the [engineering objective](https://github.com/1749-io/simba-mcp/issues/38#engineering-objective-coherent-structure-and-shared-code)
 
 ## Verification
 

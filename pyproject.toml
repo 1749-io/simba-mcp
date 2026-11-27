@@ -28,7 +28,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://getsimba.ai"
-Repository = "https://github.com/getsimba-ai/simba-mcp"
+Repository = "https://github.com/1749-io/simba-mcp"
 Documentation = "https://docs.simba-mmm.com"
 
 [project.scripts]

@@ -1,6 +1,6 @@
 # Engineering objective: coherent structure and shared code
 
-This is a standing acceptance requirement for the [performance epic #38](https://github.com/getsimba-ai/simba-mcp/issues/38)
+This is a standing acceptance requirement for the [performance epic #38](https://github.com/1749-io/simba-mcp/issues/38)
 and every child issue and implementation PR.
 
 ## When picking up an issue
