@@ -1,6 +1,6 @@
 # Role guidance candidate acceptance
 
-Checked 2 October 2026. This records the candidate for [epic #91](https://github.com/getsimba-ai/simba-mcp/issues/91),
+Checked 2 October 2026. This records the candidate for [epic #91](https://github.com/1749-io/simba-mcp/issues/91),
 not package publication or hosted deployment. Source base is `d2df6e1`; the implementation
 PR and its current-head CI identify the exact candidate. Python 3.12.13 on Windows,
 MCP SDK 2.2.0, package candidate 0.16.0 and shared guidance 22 were inspected locally.

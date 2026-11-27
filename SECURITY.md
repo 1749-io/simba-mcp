@@ -8,7 +8,7 @@ If you discover a security vulnerability in the SIMBA MCP Server, please report 
 2. Email **info@1749.io** with a description of the vulnerability, steps to reproduce, and any potential impact.
 3. We will acknowledge your report within 3 business days and provide a timeline for a fix.
 
-For the broader SIMBA platform security policy, see [getsimba-ai/simba-mmm SECURITY.md](https://github.com/getsimba-ai/simba-mmm/blob/main/SECURITY.md).
+For the broader SIMBA platform security policy, see [1749-io/simba-mmm SECURITY.md](https://github.com/1749-io/simba-mmm/blob/main/SECURITY.md).
 
 ## Supported Versions
 

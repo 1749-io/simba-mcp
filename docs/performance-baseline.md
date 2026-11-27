@@ -1,7 +1,7 @@
 # Initial measurement baseline
 
-Captured 29 September 2026 for [PERF-01](https://github.com/getsimba-ai/simba-mcp/issues/39)
-in [PR #52](https://github.com/getsimba-ai/simba-mcp/pull/52).
+Captured 29 September 2026 for [PERF-01](https://github.com/1749-io/simba-mcp/issues/39)
+in [PR #52](https://github.com/1749-io/simba-mcp/pull/52).
 
 ## Provenance and verification
 
@@ -10,8 +10,8 @@ in [PR #52](https://github.com/getsimba-ai/simba-mcp/pull/52).
 - Python-source SHA-256: `5b97320a568badaa2a9a79b9fc68951a13b0e4c7b44be4c2a2c6a1c8767b3022`.
 - Synthetic fixture version 1, SHA-256: `11f50f5b35d196af47889dc22ba90eec3516655c049e93f5ab688498fac14240`.
 - Report environment: Linux x86_64, Python 3.11.16, HTTPX 0.28.1, Pydantic 2.13.5, tiktoken 0.14.0. SDK configurations: MCP 2.1.0 and 2.2.0.
-- [CI run](https://github.com/getsimba-ai/simba-mcp/actions/runs/36517970679): all four jobs passed, covering Python 3.11/3.12/3.13 with current MCP and Python 3.11 with the MCP 2.1.0 floor.
-- [Current SDK reports](https://github.com/getsimba-ai/simba-mcp/actions/runs/36517970679/artifacts/11011886470) and [SDK-floor reports](https://github.com/getsimba-ai/simba-mcp/actions/runs/36517970679/artifacts/11011946334) include JSON and Markdown surface/overhead records. GitHub artifact access requires sign-in and retention is 90 days. The summary and digests here remain versioned in the repository.
+- [CI run](https://github.com/1749-io/simba-mcp/actions/runs/36517970679): all four jobs passed, covering Python 3.11/3.12/3.13 with current MCP and Python 3.11 with the MCP 2.1.0 floor.
+- [Current SDK reports](https://github.com/1749-io/simba-mcp/actions/runs/36517970679/artifacts/11011886470) and [SDK-floor reports](https://github.com/1749-io/simba-mcp/actions/runs/36517970679/artifacts/11011946334) include JSON and Markdown surface/overhead records. GitHub artifact access requires sign-in and retention is 90 days. The summary and digests here remain versioned in the repository.
 
 ## Catalogue
 

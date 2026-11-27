@@ -1,9 +1,9 @@
 # Performance measurement and evaluation design
 
 Reviewed 29 September 2026 against `03dd97b570ffa23de260aabe404d4382789f5d41`.
-Scope: [PERF-01 / #39](https://github.com/getsimba-ai/simba-mcp/issues/39) and the
-handover to [PERF-02 / #40](https://github.com/getsimba-ai/simba-mcp/issues/40), within
-[epic #38](https://github.com/getsimba-ai/simba-mcp/issues/38).
+Scope: [PERF-01 / #39](https://github.com/1749-io/simba-mcp/issues/39) and the
+handover to [PERF-02 / #40](https://github.com/1749-io/simba-mcp/issues/40), within
+[epic #38](https://github.com/1749-io/simba-mcp/issues/38).
 
 ## Recommendation
 
